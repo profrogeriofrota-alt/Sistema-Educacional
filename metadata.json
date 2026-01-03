@@ -1,0 +1,7 @@
+{
+  "name": "EduCore Pro - Sistema de Gestão Escolar",
+  "description": "Um sistema completo de gestão escolar com suporte a múltiplas escolas, controle de alunos, frequências com status personalizados, correção automática de gabaritos e integração de notas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
